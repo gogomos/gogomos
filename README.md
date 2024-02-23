@@ -16,6 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/oussamaaboudan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aboudan Oussama" height="30" width="40" /></a>
+  <a href="https://twitter.com/oussamaaboudan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oussamaaboudan" height="30" width="40" /></a>
+<a href="https://kaggle.com/oussama aboudan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="oussama aboudan" height="30" width="40" /></a>
+</p>
 </p>
 <div>
   <h3 align="left">Languages and Tools:</h3>
