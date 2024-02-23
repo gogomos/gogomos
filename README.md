@@ -3,10 +3,6 @@
 # Hi 👋, I'm Oussama Aboudan
 ## A passionate Full Stack Developer from Morocco
 
-<p></p>
-<br>
-<p></p>
-
 <img align="right" all="coding" width="400" src="https://media1.tenor.com/m/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 - 🌱 I’m currently learning **DevOps**
