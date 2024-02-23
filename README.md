@@ -1,10 +1,7 @@
-# Hi 👋, I'm Oussama Aboudan
-## A passionate Programmer, Developer from Morocco
-
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<p>
-</p>
 
+# Hi 👋, I'm Oussama Aboudan
+## A passionate Full Stack Developer from Morocco
 
 <p></p>
 <br>
@@ -12,11 +9,13 @@
 
 <img align="right" all="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🌱 I’m currently learning C programming to deepen my understanding of low-level systems and gain more control over memory management. Additionally, I'm exploring Docker to containerize and deploy my applications efficiently. Furthermore, I'm delving into web development, including HTML, CSS, and JavaScript, to build interactive and user-friendly web experiences.
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about programming concepts, coding challenges, software development practices, debugging techniques, or any questions you have related to C/C++ programming!
+- 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me: oussamaaboudan1995@gmail.com
+- 📫 How to reach me **oussamaaboudan1995@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
