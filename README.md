@@ -40,6 +40,5 @@
   </p>
 </div>
 
-<h2>My GitHub Stats</h2>
 
 
