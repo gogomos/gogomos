@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android , MERN**
 
 - 📫 How to reach me **oussamaaboudan1995@gmail.com**
 
